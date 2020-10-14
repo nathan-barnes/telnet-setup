@@ -1,0 +1,3 @@
+execute to setup env file?
+cat Dockerfile
+
